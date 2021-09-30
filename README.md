@@ -36,16 +36,18 @@ This statistical analysis had the following goals:
 2. Distribution of Price
 3. Grouping Price
 4. Distribution of total reviews by brand
-📊 Exploratory Analysis based on Rating Distribution
-5. Ratings vs. Number of reviews.
-6. Ratings fill by brand
-7. Reviewer Ratings by Brand
-8. Price and Brand
-9. Helpful Votes by Brand
-10. Most common words by brand
-11. Most common words all reviews
 
-## 🚧	CONCLUSION
+#### 📊 Exploratory Analysis based on Rating Distribution
+
+5. Ratings vs. Number of reviews.
+7. Ratings fill by brand
+8. Reviewer Ratings by Brand
+9. Price and Brand
+10. Helpful Votes by Brand
+11. Most common words by brand
+12. Most common words all reviews
+
+## 📌	CONCLUSION
 
 ### 🆚 2.1 Samsung Vs. Apple
 1. Product Rating
