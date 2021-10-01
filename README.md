@@ -58,7 +58,7 @@ This statistical analysis had the following goals:
 ## 12. Most common words all reviews
 ![image](https://user-images.githubusercontent.com/77670138/135667424-adfbf6a5-bf4d-4be2-aac3-b2213ccb6d3d.png)
 
-## 📌	CONCLUSION
+## 🚧	CONCLUSION
 
 - Amazon’s product review platform shows that most of the reviewers have given **4-star** and **3-star** ratings to unlocked mobile phones.
 
