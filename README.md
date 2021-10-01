@@ -1,5 +1,8 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
+![Lines of code](https://img.shields.io/tokei/lines/github/7Vivek/Amazon-Case-Study?color=green)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7Vivek/Amazon-Case-Study)
+![GitHub repo size](https://img.shields.io/github/repo-size/7Vivek/Amazon-Case-Study)
+![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/Amazon-Case-Study?color=orange)
 
 # Amazon-Case-Study 
 
