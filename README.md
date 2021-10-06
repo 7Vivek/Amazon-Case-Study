@@ -87,3 +87,7 @@ This statistical analysis had the following goals:
 ### 3. Most Common Words in Reviews by Brand
 ![image](https://user-images.githubusercontent.com/77670138/135668035-8ab8e10b-0d30-400b-8935-5c4740ac15a4.png)
 
+## 📃 1.3 Documentation
+[Documentation](https://github.com/7Vivek/Amazon-Case-Study/blob/main/Amazon%20Case%20Study.pdf)
+
+
