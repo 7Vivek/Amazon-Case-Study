@@ -1,8 +1,15 @@
+![image](https://badges.aleen42.com/src/amazon.svg)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
 ![Lines of code](https://img.shields.io/tokei/lines/github/7Vivek/Amazon-Case-Study?color=green)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7Vivek/Amazon-Case-Study)
 ![GitHub repo size](https://img.shields.io/github/repo-size/7Vivek/Amazon-Case-Study)
 ![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/Amazon-Case-Study?color=orange)
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![image](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![image](https://camo.githubusercontent.com/b91ba10bb6716ab2d9d59d73af7f0f46c05938dd4434de6c42e389abaadadc0a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e26636f6c6f723d323232323232266c6f676f3d416d617a6f6e266c6f676f436f6c6f723d464639393030266c6162656c3d)
 
 # Amazon-Case-Study 
 
@@ -87,7 +94,7 @@ This statistical analysis had the following goals:
 ### 3. Most Common Words in Reviews by Brand
 ![image](https://user-images.githubusercontent.com/77670138/135668035-8ab8e10b-0d30-400b-8935-5c4740ac15a4.png)
 
-## 📃 1.3 Documentation
+## 📃 1.4 Documentation
 [Documentation](https://github.com/7Vivek/Amazon-Case-Study/blob/main/Amazon%20Case%20Study.pdf)
 
 
