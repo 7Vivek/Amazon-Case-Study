@@ -1,5 +1,5 @@
 ![image](https://badges.aleen42.com/src/amazon.svg)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+![GPLv3 License](https://img.shields.io/badge/License-GPLv3-%231abc9c)
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/7Vivek/Amazon-Case-Study?color=green)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7Vivek/Amazon-Case-Study)
